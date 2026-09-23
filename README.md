@@ -15,7 +15,7 @@ Production-сборка канбан-доски на **TypeScript + Vite** с ю
 
 ## Исходный код и тесты
 
-[![Сборка](https://img.shields.io/badge/Сборка-Открыть_код-181717?logo=github)](https://github.com/SofyaPim/kanban-ts)
+[![Сборка](https://img.shields.io/badge/Сборка-Открыть_код-181717?logo=github)](https://github.com/SofyaPim/kanban-ts-tests)
 
 ## Установка PWA на телефон
 
