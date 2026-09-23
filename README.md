@@ -1,3 +1,4 @@
+[![pages-build-deployment](https://github.com/SofyaPim/kanban-ts/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/SofyaPim/kanban-ts/actions/workflows/pages/pages-build-deployment)
 
 # TS Kanban Board
 
